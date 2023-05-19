@@ -1,0 +1,11 @@
+C:\Users\eda öncel\Desktop\dijital saat\bin\Debug\dijital saat.exe.config
+C:\Users\eda öncel\Desktop\dijital saat\bin\Debug\dijital saat.exe
+C:\Users\eda öncel\Desktop\dijital saat\bin\Debug\dijital saat.pdb
+C:\Users\eda öncel\Desktop\dijital saat\obj\Debug\dijital saat.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\dijital saat\obj\Debug\dijital saat.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\dijital saat\obj\Debug\dijital_saat.Form1.resources
+C:\Users\eda öncel\Desktop\dijital saat\obj\Debug\dijital_saat.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\dijital saat\obj\Debug\dijital saat.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\dijital saat\obj\Debug\dijital saat.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\dijital saat\obj\Debug\dijital saat.exe
+C:\Users\eda öncel\Desktop\dijital saat\obj\Debug\dijital saat.pdb
